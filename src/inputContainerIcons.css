@@ -1,0 +1,28 @@
+.inputContainerIcons{
+    display:flex;
+    margin: 10px;
+    margin-right: 30px;
+    margin-left: 15px;
+    cursor: pointer;
+    justify-content: space-evenly;
+    
+}
+
+.icon_img > img{
+    object-fit: contain;
+    height: 20px;
+    margin-right: 10px;
+}
+.icon_name{
+    color: rgba(0, 0, 0, 0.6);
+    margin-left: 5px
+
+;
+}
+
+.inputContainerIcons:hover{
+  background-color: aliceblue;
+
+  border-radius: 6px;
+}
+

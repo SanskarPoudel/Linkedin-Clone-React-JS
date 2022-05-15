@@ -1,0 +1,30 @@
+.profile_main{
+    display: flex;
+    margin: 15px;
+    margin-left: -80px;
+}
+    
+.profile_mainName > h2{
+    font-size: 14px;
+    font-weight: 700;
+    margin-left: 8px;
+   
+
+}
+.profile_mainName > p{
+    font-size: 13px;
+    font-weight: 300;
+    margin-left: -4px;
+}
+.button{
+   border-radius: 30px;
+  border: 1px solid lightgray;
+  height: 30px;
+  margin: 10px;
+  width: 80px;
+  height: 30px;
+  font-size: 600;
+  color: rgb(89, 88, 88);
+  margin-left: -50px;
+  margin-top: -50px;
+}
